@@ -1,0 +1,17 @@
+[
+  {
+    "date": "09/11/2021",
+    "title": "BriBucks Brochure",
+    "description": "I created a brochure in Google Slides for my BriBucks project at school.",
+    "links": [
+      {
+        "link": "https://docs.google.com/presentation/d/1QF0fUh2mmx0bln66SQ8JVfD2pF1ZsJipVeGGa7-JXao/edit?usp=sharing",
+        "name": "BriBucks Brochure on Google Slies"
+      },
+      {
+        "link": "https://v1.lasya.net/downloads/001-bribucks-brochure/bribucks-brochure.pdf",
+        "name": "Download BriBucks Brochure in PDF format"
+      }
+    ]
+  }
+]
