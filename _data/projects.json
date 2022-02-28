@@ -13,5 +13,241 @@
         "name": "Download BriBucks Brochure in PDF format"
       }
     ]
+  },
+  {
+    "date": "08/09/2021",
+    "title": "Contacts",
+    "description": "Add contacts of important people.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/contacts/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/contacts",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "08/04/2021",
+    "title": "SQL Todos",
+    "description": "SQL basic commands",
+    "links": [
+      {
+        "link": "https://github.com/SaMaSaLa/learning-SQL",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "08/03/2021",
+    "title": "Color Generator with Local Cache",
+    "description": "You change the numbers of red, green, and blue to create a color using those numbers with local cache.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/color-generator-with-local-cache/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/color-generator-with-local-cache",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "08/02/2021",
+    "title": "ToDos",
+    "description": "You can add todos and save them for later and you can delete when you're finished.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/todos/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/todos",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "07/30/2021",
+    "title": "Online Notepad",
+    "description": "Youtype on the whole page and save the text you typed for later.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/online-notepad/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/online-notepad",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "07/29/2021",
+    "title": "Color Generator",
+    "description": "You change the numbers of red, green, and blue to create a color using those numbers.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/color-generator/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/random-color-generator",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "07/28/2021",
+    "title": "Random Color Generator",
+    "description": "You press a button to generate a random color. You see a table of the red, blue and green used to make that random color.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/random-color-generator/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/random-color-generator",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "07/27/2021",
+    "title": "Decimal to Others",
+    "description": "You give a number and it returns a table showing that number in binary, octal, hex, and hexa decimal.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/decimel-to-others/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/decimel-to-others",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "07/26/2021",
+    "title": "Tables with Range",
+    "description": "Multiplies a specific number by when you start to when you end your range and gives a table of the result.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/tables-with-range/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/tables-with-range",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "07/25/2021",
+    "title": "Tables",
+    "description": "Multiplies a specific number by 1, 2, 3 and all numbers until 10 and gives a table of the result.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/tables/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/tables",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "07/14/2021",
+    "title": "Generate Numbers",
+    "description": "Adds 2 numbers for a specific number of times and shows a table for the result.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/generate-numbers/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/generate-numbers",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "07/08/2021",
+    "title": "Sign Finder",
+    "description": "Type a number to see if its empty, not a number, more than zero, less than zero, or is zero.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/sign-finder",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/sign-finder",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "07/06/2021",
+    "title": "P5 JS Quick Start",
+    "description": "Move your mouse to add ellipses and click to erase all ellipses.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/p5js-quick-start",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/p5js-quick-start",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "06/28/2021",
+    "title": "Mouse Click Add Ball",
+    "description": "Adds a ball where you click.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/mouse-click-add-ball",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/mouse-click-add-ball",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "06/28/2021",
+    "title": "Mouse Clicking Position",
+    "description": "Shows X and Y positions of the mouse click relative to the container.",
+    "links": [
+      {
+        "link": "https://samasala.github.io/mouse-clicking-position/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/mouse-clicking-position",
+        "name": "Github Repository"
+      }
+    ]
+  },
+  {
+    "date": "06/28/2021",
+    "title": "Mouse Clicking Game",
+    "description": "Click on the circle to get points",
+    "links": [
+      {
+        "link": "https://samasala.github.io/mouse-clicking-game/",
+        "name": "Demo"
+      },
+      {
+        "link": "https://github.com/SaMaSaLa/mouse-clicking-game",
+        "name": "Github Repository"
+      }
+    ]
   }
 ]
