@@ -1,1 +1,1 @@
-# v2.lasya.net
+# lasya.net
