@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is [Lasya Vanga]({{site.url}}) . I'm 10 years old. I go to [Lake Wilderness Elementary school](https://lakewildernesstahomasd.ss19.sharpschool.com/). I have an older brother named Sai Vanga. He is 11 years old and goes to [Maple View Middle School](https://mapleviewtahomasd.ss19.sharpschool.com/).
+Hi, my name is [Lasya Vanga]({{site.url}}) . I'm 10 years old. I go to [Lake Wilderness Elementary school](https://lakewildernesstahomasd.ss19.sharpschool.com/){:target="\_blank" rel="noopener"}. I have an older brother named Sai Vanga. He is 11 years old and goes to [Maple View Middle School](https://mapleviewtahomasd.ss19.sharpschool.com/).
 Don't forget to visit [my brother's website](https://sai.rocks){:target="\_blank" rel="noopener"}
 
 <img alt="Me!" src="/assets/photos/me-about.jpg" height="300">
