@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trying Girhub"
+title: "Trying Github"
 date: 2022-08-23 17:07 -0800
 categories:
 ---
