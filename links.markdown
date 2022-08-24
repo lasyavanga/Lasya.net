@@ -14,4 +14,4 @@ These are my family members' websites and other useful links:
 
 - My grandpa's website [https://vsreddy.com](https://vsreddy.com){:target="\_blank" rel="noopener"}
 
-- My current school's website [https://alcott.lwsd.org](https://alcott.lwsd.org){:target="\_blank" rel="noopener"}
+- My current school's website [https://lakewildernesstahomasd.ss19.sharpschool.com/](https://lakewildernesstahomasd.ss19.sharpschool.com/){:target="\_blank" rel="noopener"}
